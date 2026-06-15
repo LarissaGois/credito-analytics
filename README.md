@@ -17,7 +17,7 @@ A pipeline foi desenhada ponta a ponta, focando em boas práticas de Engenharia 
 ###  Dashboard Executivo
 *(Visão focada na conversão e comportamento de risco)*
 
-![Dashboard Executivo](dashboard/painel_executivo.png)
+![Dashboard Executivo](img/painel_executivo.png)
 
 ### 🚀 Como Executar o Ambiente
 1. Clone o repositório: `git clone https://github.com/LarissaGois/credito-analytics.git`
