@@ -1,0 +1,19 @@
+# Ambientes Virtuais
+venv/
+env/
+.env
+
+# Dados Brutos e Sensíveis (Regra de Ouro)
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Caches do Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dashboard
+dashboard/
+*.pbix
